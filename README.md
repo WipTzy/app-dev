@@ -1,2 +1,3 @@
 # app-dev
-My first respository
+## My Favorite Movie/Series Hierarchy
+Kang Ha (Lee Chae-min), a mild-mannered scholarship student, transfers to Jooshin High School with a heavy heart and a singular mission: to unearth the school’s biggest-ever scandal … and get his revenge. But navigating this world of privilege isn’t easy — these students are practically royalty and firmly believe they can do no wrong. To them, Kang Ha is a nobody, just like the scholarship kids who came before him — like In-han, who died after being struck by a car at the beginning of the series. But what really happened to him? And why is Kang Ha so invested in avenging his death? 
